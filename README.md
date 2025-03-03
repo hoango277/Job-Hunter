@@ -1,6 +1,6 @@
 # Job Hunter
 
-Dự án **Job Hunter** là một ứng dụng backend tập trung vào việc xử lý các API liên quan đến các chức năng chính của một nền tảng tuyển dụng việc làm , được xây dựng bằng **Spring Boot,  Kafka Spring Security( JWT Authentication ), RESTful APIs, Spring Data JPA**
+Dự án **Job Hunter** là một ứng dụng backend tập trung vào việc xử lý các API liên quan đến các chức năng chính của một nền tảng tuyển dụng việc làm , được xây dựng bằng **Spring Boot,  Kafka, Spring Security( JWT Authentication ), RESTful APIs, Spring Data JPA**
 
 ## Cài đặt
 
@@ -24,7 +24,8 @@ docker-compose up
 
 ### Kết quả
 
-![alt text](demo.png)
+![Demo](assets/demo.png)
+![Demo docker](assets/demoDocker.png)
 
 
 ## Yêu cầu hệ thống
@@ -32,5 +33,5 @@ docker-compose up
 
 **MySQL**: phiên bản 5.7.40 trở lên
 
-**Docker**: phiên bản 3.8
+**Docker**: phiên bản 3.8 trở lên
 
